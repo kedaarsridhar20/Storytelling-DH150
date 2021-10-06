@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(10, 117, 0);
+    font-family:helvetica;
+    background-color:white;
+    border:5px solid red;
+    padding:50px;
+    }
+    
+p {
+    color:yellow;
+}
+ 
+h3 {
+color:purple;
+}
+
+body {
+    background-color:rgb(2, 17, 17);
+    }
+
+img {
+    border: 5px solid fuchsia;
+    width:50%;
+    height:50%;
+    margin-left:100px;
+    align-content: center;
+}
